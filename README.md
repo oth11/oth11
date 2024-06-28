@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oth11
 - 👀 I’m interested in Social Media Analytics and Social Media Signalling for research purposes
-- 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on research projects!
 - 📫 How to reach me oth11@hotmail.com
 
